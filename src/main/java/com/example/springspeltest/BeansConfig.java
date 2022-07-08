@@ -3,12 +3,7 @@ package com.example.springspeltest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * *
- * <p>Created by irina on 7/8/2022.</p>
- * <p>Project: spring-SpEL-test</p>
- * *
- */
+
 @Configuration
 public class BeansConfig {
     @Bean
